@@ -1,4 +1,4 @@
-# Network Remote
+![Network Remote](Images/network-remote-logo.png)
 
 _"Like a TV remote, but for a PC, from the network"_
 
@@ -37,3 +37,13 @@ Running command from client script:
 ```
 
 See sample configuration files in Server and Client folders for more info.
+
+## License
+
+Network Remote is provided under
+[CDDL-1.0](http://opensource.org/licenses/CDDL-1.0)
+([Why?](http://qstuff.blogspot.fr/2007/04/why-cddl.html)).
+
+Basically, you can use it or its source for any project, free or commercial, but if you improve it or fix issues,
+the license requires you to contribute back by submitting a pull request with your improved version of the code.
+Also, credit must be given to the original project, and license notices may not be removed from the code.
